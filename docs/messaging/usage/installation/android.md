@@ -44,7 +44,7 @@ import io.invertase.firebase.messaging.ReactNativeFirebaseMessagingPackage;
 
 ### 3.2 Add the package to the registry
 
-Add the following within the `MainActivity` class:
+Add the following within the `MainApplication` class:
 
 ```java
 protected List<ReactPackage> getPackages() {
